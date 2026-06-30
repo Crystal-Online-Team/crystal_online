@@ -1,0 +1,26 @@
+# Godot 4+ specific ignores
+client/.godot/
+client/android/
+client/.nomedia
+client/.import/
+client/.mono/
+client/data_*/
+mono_crash.*.json
+export.cfg
+export_credentials.cfg
+*.tmp
+~*.dll
+*.translation
+
+# NodeJS
+node_modules/
+server/npm-debug.log*
+server/yarn-debug.log*
+server/error.log*
+
+# VS Code
+.vscode/
+
+# Visual Studio
+.vs/
+out/
