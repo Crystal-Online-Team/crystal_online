@@ -5,6 +5,7 @@ client/.nomedia
 client/.import/
 client/.mono/
 client/data_*/
+*.import
 mono_crash.*.json
 export.cfg
 export_credentials.cfg
